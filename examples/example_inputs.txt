@@ -1,0 +1,27 @@
+# Example Prompts for Text-to-Image Generation
+
+## Nature Scenes
+1. A serene forest with sunlight filtering through the trees
+2. A picturesque mountain landscape with a clear blue lake
+3. A desert at sunset with dunes and a caravan of camels
+
+## Fantasy and Sci-Fi Themes
+4. A magical castle in a mystical forest
+5. A futuristic city with flying cars and neon lights
+6. A surreal dreamscape with floating islands and waterfalls
+7. A galaxy with vibrant nebulae and stars in the distance
+
+## Artistic Styles
+8. A peaceful countryside scene in the style of Van Gogh
+9. A street market at night, painted in watercolor
+10. A bustling city skyline with a cyberpunk aesthetic
+
+## Abstract and Surreal
+11. A combination of nature and technology, with robotic trees
+12. An abstract painting with vibrant colors and geometric shapes
+13. A dream-like underwater world with glowing fish and coral reefs
+
+## Seasonal and Festive
+14. A cozy cabin in the woods during a snowy winter night
+15. A springtime meadow filled with flowers and butterflies
+16. A festive Christmas market with lights and decorations
