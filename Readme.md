@@ -2,7 +2,15 @@
 
 <p align="center">안녕하세요!🙇‍♂️<br/>가천대학교 2024-2학기 OpenSource Termproject Team 입니다!👋<br/>이 프로젝트는 텍스트 프롬프트를 기반으로 Stable Diffusion을 활용해 이미지를 생성하고, 생성된 이미지에 후처리를 적용하는 AI 기반 디지털 아트 생성 오픈소스 입니다.</p>
 
+<br/>
+
+<p align="center">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/5313f604-edd6-438d-9f25-be533c096a35">
+</p>
+<p align="center">The result of the prompt ‘A cute panda is eating a lot of bamboo.’</p>
+
 <br/><br/>
+
 ## 주요 기능
 
 1. **텍스트에서 이미지 생성**:
