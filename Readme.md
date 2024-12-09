@@ -51,3 +51,22 @@ python src/main.py --step post_processing --input_path generated_image.png --enh
 ```bash
 python src/main.py --step full_workflow --prompt "A futuristic city at night" --output_path final_image.png
 ```
+<br/><br/>
+
+## 프로젝트 구조
+```bash
+project/
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── main.py
+│   ├── text_to_image/
+│   │   ├── __init__.py
+│   │   └── generate_image.py
+│   └── post_processing/
+│       ├── __init__.py
+│       └── enhance_image.py
+└── examples/
+    ├── example_inputs.txt
+    └── example_workflow.py
+```
