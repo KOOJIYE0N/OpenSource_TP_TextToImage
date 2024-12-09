@@ -71,36 +71,39 @@ project/
     └── example_workflow.py
 ```
 
-### 1. `examples/example_inputs.txt`
+## 1. `examples/example_inputs.txt`
+텍스트 프롬프트 예제 리스트 입니다.
 
-- **내용:** 텍스트 프롬프트 예제 리스트.  
   - **카테고리:** 자연 경관, 판타지 테마, 예술 스타일, 추상적 장면, 시즌 테마 등.  
-  - **사용 예시:** 다양한 입력 프롬프트를 통해 모델의 성능과 결과를 확인할 수 있습니다.  
-- **사용 방법:**  
+  - **사용 예시:** 다양한 입력 프롬프트를 통해 모델의 성능과 결과를 확인할 수 있습니다.
+  - **사용 방법:**  
   ```bash
   cat examples/example_inputs.txt
   ```
   
-  ### 2. `examples/example_workflow.py`
+  ## 2. `examples/example_workflow.py`
+  전체 텍스트에서 이미지 생성 및 후처리 과정을 설명하는 워크플로우 스크립트입니다.
   
-- **내용:** 전체 텍스트에서 이미지 생성 및 후처리 과정을 설명하는 워크플로우 스크립트입니다.
 - **주요 단계:**
   1. 텍스트 프롬프트를 기반으로 이미지를 생성합니다.
   2. 생성된 이미지에 후처리를 적용합니다.
+     
 - **사용 방법:**  
   ```bash
   python examples/example_workflow.py
   ```
 
-### 3. `src/text_to_image/` 모듈
+## 3. `src/text_to_image/` 모듈
 
 - **파일:**
   - `__init__.py`: 모듈을 초기화하고 클래스를 가져오는 역할을 합니다.
   - `generating_image.py`: 텍스트에서 이미지를 변환하는 기능을 제공합니다.
   - `pipeline.py`: 텍스트 프롬프트 입력부터 이미지 생성까지의 전체 파이프라인을 관리합니다.
+    
 - **설명:**  
   - Stable Diffusion을 활용하여 텍스트 기반 이미지 생성 작업을 수행합니다.
   - GPU/CPU를 자동으로 감지하며, 이미지 크기와 품질 조정 등 사용자가 매개변수를 설정할 수 있도록 지원합니다.
+    
 - **사용 예시:**  
   ```bash
   python src/text_to_image/pipeline.py
