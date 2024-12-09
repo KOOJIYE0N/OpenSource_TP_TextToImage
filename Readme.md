@@ -71,8 +71,9 @@ project/
     └── example_workflow.py
 ```
 
+## 각 파일 정보
 
-## 1. `examples/example_inputs.txt`
+### 1. `examples/example_inputs.txt`
 텍스트 프롬프트 예제 리스트 입니다.
 
   - **카테고리:** 자연 경관, 판타지 테마, 예술 스타일, 추상적 장면, 시즌 테마 등.  
@@ -82,7 +83,7 @@ project/
   cat examples/example_inputs.txt
   ```
   
-  ## 2. `examples/example_workflow.py`
+  ### 2. `examples/example_workflow.py`
   전체 텍스트에서 이미지 생성 및 후처리 과정을 설명하는 워크플로우 스크립트입니다.
   
 - **주요 단계:**
@@ -94,7 +95,7 @@ project/
   python examples/example_workflow.py
   ```
 
-## 3. `src/text_to_image/` 모듈
+### 3. `src/text_to_image/` 모듈
 
 - **파일:**
   - `__init__.py`: 모듈을 초기화하고 클래스를 가져오는 역할을 합니다.
