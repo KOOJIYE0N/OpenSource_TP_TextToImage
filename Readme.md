@@ -25,3 +25,21 @@ source venv/bin/activate  # Windows에서는 venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+<br/>
+
+------------
+
+<br/>
+
+## 사용법
+
+1. **텍스트에서 이미지 생성**:
+```bash
+python src/main.py --step text_to_image --prompt "A serene forest with sunlight filtering through the trees" --output_path generated_image.png
+```
+2. 이미지 후처리
+```bash
+python src/main.py --step post_processing --input_path generated_image.png --enhance_type contrast --enhance_factor 1.5 --output_path enhanced_image.png
+```
+3. 전체 워크플로 실행
+
