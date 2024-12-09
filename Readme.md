@@ -70,8 +70,11 @@ project/
     ├── example_inputs.txt
     └── example_workflow.py
 ```
+<br/>
 
+<br/>
 ## 각 파일 정보
+
 
 ### 1. `examples/example_inputs.txt`
 텍스트 프롬프트 예제 리스트 입니다.
