@@ -1,6 +1,6 @@
 <h1 align="center">🌟 AI 기반 디지털 아트 생성 및 후처리 도구 🌟</h1>
 
-<p align="center">안녕하세요!🙇‍♂️<br/>가천대학교 2024-2학기 OpenSource Termproject Team 입니다!👋<br/>이 프로젝트는 텍스트 프롬프트를 기반으로 Stable Diffusion을 활용해 이미지를 생성하고, 생성된 이미지에 후처리를 적용하는 AI 기반 디지털 아트 생성 오픈소스 입니다.</p>
+<p align="center">안녕하세요!🙇‍♂️<br/>가천대학교 2024-2학기 OpenSource Termproject Team 41 입니다!👋<br/>이 프로젝트는 텍스트 프롬프트를 기반으로 Stable Diffusion을 활용해 이미지를 생성하고, 생성된 이미지에 후처리를 적용하는 AI 기반 디지털 아트 생성 오픈소스 입니다.</p>
 
 <br/>
 
